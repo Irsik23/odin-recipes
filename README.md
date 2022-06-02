@@ -1,1 +1,2 @@
 # odin-recipes
+This is the Recipes Project built for my curriculum in The Odin Project. In this project I will be using HTML to create a basic website showcasing a few different recipes. By the end of this project I will have demonstrated my skills in basic HTML.
