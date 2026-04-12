@@ -1,0 +1,21 @@
+body {
+    color: #1e1e1e;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 75px;
+}
+
+.links {
+    color: darkorange;
+    border: 1px solid darkorange;
+    padding: 20px;
+    width: 150px;
+    margin: 0 auto;
+}
+
+a {
+    color: darkorange;
+}
